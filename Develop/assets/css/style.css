@@ -1,13 +1,25 @@
+/*style for whole page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*general styling for elements*/
 body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*style for Header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +36,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*style for nav*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +54,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/*stye for hero*/
 .hero {
     height: 800px;
     width: 100%;
