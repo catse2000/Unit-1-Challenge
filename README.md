@@ -34,4 +34,6 @@
 ![Screenshot 2](screenshot2.png)
 
 ### Link to repo
-[Unit 1 Challenge Link](https://github.com/catse2000/Unit-1-Challenge.git)
+[Link to Repo](https://github.com/catse2000/Unit-1-Challenge.git)
+
+[Link to website](https://catse2000.github.io/Unit-1-Challenge/)
