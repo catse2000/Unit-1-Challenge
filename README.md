@@ -27,5 +27,11 @@
 
 
 ### Screenshot of finished website:
-![image](../Develop/assets/images/"Screenshot of Completed Site - Amanda Babineaux")
+#### Screenshot 1
+![Screenshot 1](Screenshot1.png)
 
+#### Screenshot 2
+![Screenshot 2](screenshot2.png)
+
+### Link to repo
+[Unit 1 Challenge Link](https://github.com/catse2000/Unit-1-Challenge.git)
